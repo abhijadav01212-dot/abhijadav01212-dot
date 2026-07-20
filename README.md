@@ -39,7 +39,7 @@ I'm currently working as a **Data Analyst Intern at Unified Mentor Pvt. Ltd.** a
 | Project | Tools | Focus |
 | --- | --- | --- |
 | Sales Performance Dashboard | Excel, SQL, Power BI | KPIs, regional trends, executive reporting |
-| Customer Analytics Report | Python, Pandas, Tableau | Segmentation, repeat purchase, churn signals |
+| Employee Analytics Report | Python, Pandas, Tableau | Segmentation, repeat purchase, churn signals |
 | Machine Learning Starter Lab | Python, NumPy, ML | Preprocessing, model comparison, evaluation |
 
 ---
