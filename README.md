@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Jatav
 
-## Data Analyst Intern | Excel | SQL | Power BI | Python
+## Data Analyst | Excel | SQL | Power BI | Python
 
 I'm currently working as a **Data Analyst Intern at Unified Mentor Pvt. Ltd.** and building real-world analytics projects using **Excel, SQL, Power BI, Tableau and Python**.
 
