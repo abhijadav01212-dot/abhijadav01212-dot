@@ -1,6 +1,6 @@
-# Hi, I'm Abhishek Jatav
+💫Hi,✨ I'm 👤Abhishek Jatav
 
-## Data Analyst | Excel | SQL | Power BI | Python
+ Data Analyst 🗸 | Excel 🗸 | SQL 🗸 | Power BI 🗸 | Python 🗸
 
 I'm currently working as a **Data Analyst Intern at Unified Mentor Pvt. Ltd.** and building real-world analytics projects using **Excel, SQL, Power BI, Tableau and Python**.
 
@@ -8,8 +8,8 @@ I'm currently working as a **Data Analyst Intern at Unified Mentor Pvt. Ltd.** a
 - Open to collaborate on data analytics and BI projects
 - Currently learning Machine Learning, AWS and advanced data analytics
 - Ask me about Excel, SQL, Power BI, Tableau and Python
-- Fun fact: I love transforming complex datasets into simple, interactive dashboards
-
+- Fun fact: I love transforming complex datasets into simple, interactive dashboard
+- My Portfolio:- https://abhishekjatav-portfolio-v2026.vercel.app/
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Jatav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-jatav-ba821b407/)
@@ -47,9 +47,9 @@ I'm currently working as a **Data Analyst Intern at Unified Mentor Pvt. Ltd.** a
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijadav01212-dot&color=1f883d&style=flat-square)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhijadav01212-dot&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhijadav01212-dot&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhijadav01212-dot&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=abhijadav01212-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhijadav01212-dot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhijadav01212-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhijadav01212-dot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
