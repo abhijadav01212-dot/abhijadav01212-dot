@@ -53,7 +53,7 @@
 - 🛠️ Building real-world **Excel, SQL, Power BI, Tableau & Python** projects
 - 📊 Focused on **business dashboards, BI reporting, and data storytelling**
 - 🤝 Open to collaborate on **Data Analytics & Business Intelligence** projects
-- 📚 Currently learning **Machine Learning, AWS & Advanced Data Analytics**
+- 📚 Expanding Expertise in **Machine Learning & Advanced Data Analytics**
 - 💬 Ask me about **Excel, SQL, Power BI, Tableau & Python**
 - ⚡ Fun fact: I love transforming complex datasets into simple, interactive dashboards
 <!-- Snake Game Repo View -->
