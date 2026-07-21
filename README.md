@@ -56,7 +56,9 @@
 - 📚 Currently learning **Machine Learning, AWS & Advanced Data Analytics**
 - 💬 Ask me about **Excel, SQL, Power BI, Tableau & Python**
 - ⚡ Fun fact: I love transforming complex datasets into simple, interactive dashboards
-
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </td>
 </tr>
 </table>
