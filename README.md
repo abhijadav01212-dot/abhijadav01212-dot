@@ -103,6 +103,8 @@
 
 <!-- Text-based progress bars (Unicode blocks) — no external image
      service involved, so this section can never show as broken. -->
+     
+<img width="1584" height="396"Skill.png" src="Skill.png">     
 
 | Skill | Proficiency | Progress |
 |---|:---:|---|
