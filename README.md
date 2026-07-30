@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Githup_Banner.png.png" src=https://github.com/abhijadav01212-dot/abhijadav01212-dot/commit/fa3edfc298c8c0cbc0e4e3f5f32dbea121783ce7
+<img width="1584" height="396" alt="Githup_Banner.png.png" src="https://github.com/abhijadav01212-dot/abhijadav01212-dot/commit/fa3edfc298c8c0cbc0e4e3f5f32dbea121783ce7">
 <!-- ============================================================ -->
 <!--  ABHISHEK JATAV — PROFESSIONAL GITHUB PROFILE README         -->
 <!--  Theme: Corporate Navy & Steel Blue | Data Analytics Focus   -->
