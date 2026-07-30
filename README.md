@@ -1,4 +1,10 @@
 <img width="1584" height="396" alt="Githup_Banner.png" src="Githup_Bannar.png.png">
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</td>
+</tr>
+</table>
 <!-- ============================================================ -->
 <!--  ABHISHEK JATAV — PROFESSIONAL GITHUB PROFILE README         -->
 <!--  Theme: Corporate Navy & Steel Blue | Data Analytics Focus   -->
@@ -56,12 +62,7 @@
 - 📚 Expanding Expertise in **Machine Learning & Advanced Data Analytics**
 - 💬 Ask me about **Excel, SQL, Power BI, Tableau & Python**
 - ⚡ Fun fact: I love transforming complex datasets into simple, interactive dashboards
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</td>
-</tr>
-</table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
