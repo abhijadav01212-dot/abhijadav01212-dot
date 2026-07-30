@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Githup_Banner.png.png" src="https://github.com/user-attachments/assets/04d456fd-24ec-440c-a27f-cd720fefe9fb" />
 <!-- ============================================================ -->
 <!--  ABHISHEK JATAV — PROFESSIONAL GITHUB PROFILE README         -->
 <!--  Theme: Corporate Navy & Steel Blue | Data Analytics Focus   -->
