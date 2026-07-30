@@ -10,7 +10,6 @@
 
 <!-- Professional navy/steel-blue waving banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=220&section=header&text=Abhishek%20Jatav&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Developer%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18&descColor=CBD5E1" width="100%"/>
-
 <!-- Animated typing effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Analyst+Intern+%40+Unified+Mentor+Pvt.+Ltd.;Turning+Raw+Data+Into+Actionable+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;Currently+Learning+Machine+Learning+%26+AWS" alt="Typing SVG" />
@@ -66,6 +65,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 🧰 Tech Stack
+<img align="right" alt="Analysis" width="390" height="280"
+  src="https://cdn.dribbble.com/userupload/20903764/file/original-54080c1d010ef0bc22fb66b815e6e848.gif">
 
 <div align="center">
 
