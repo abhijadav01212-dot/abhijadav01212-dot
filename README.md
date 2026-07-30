@@ -8,8 +8,8 @@
 
 <div align="center">
 
-<!-- Professional navy/steel-blue waving banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=220&section=header&text=Abhishek%20Jatav&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Developer%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18&descColor=CBD5E1" width="100%"/>
+<!-- Professional dark gray waving banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A0A,100:000000&height=260&section=header&text=Abhishek%20Jatav&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Developer%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 <!-- Animated typing effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Analyst+Intern+%40+Unified+Mentor+Pvt.+Ltd.;Turning+Raw+Data+Into+Actionable+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;Currently+Learning+Machine+Learning+%26+AWS" alt="Typing SVG" />
@@ -161,7 +161,7 @@
 </div>
 
 <!-- Professional animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,50:141414,100:000000&height=180&section=footer" width="100%"/>
 
 <div align="center">
 <sub>Professional Data Analytics GitHub Profile — Corporate Navy &amp; Steel Blue Theme</sub>
