@@ -125,23 +125,6 @@
 | **Employee Analytics Report** | Python, Pandas, Tableau | Segmentation, repeat purchase, churn signals |
 | **Machine Learning Starter Lab** | Python, NumPy, ML | Preprocessing, model comparison, evaluation |
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhijadav01212-dot&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=480&title_color=0EA5E9&icon_color=0EA5E9&text_color=1E293B&bg_color=ffffff" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=abhijadav01212-dot&theme=default&hide_border=true&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=ffffff" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijadav01212-dot&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=0EA5E9&text_color=1E293B&bg_color=ffffff" alt="Top Languages" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 🎓 Achievements & Learning Path
 
@@ -158,14 +141,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
-
 ## 💭 Quote
 
 > *"The only way to learn a new programming language is by writing programs in it."*
 > — Dennis Ritchie
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 📬 Contact Me
 
