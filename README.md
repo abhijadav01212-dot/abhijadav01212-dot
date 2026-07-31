@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Githup_Banner.png" src="Githup_Bannar.png.png">
+<img width="245" height="190" alt="AyEj.git" src="AyEj.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="9xEt.git" src="9xEt.gif">
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -12,7 +12,7 @@
 <!--  Note: Skills progress bars are plain Unicode text (no       -->
 <!--  external image service) so they can never break/show blank.-->
 <!-- ============================================================ -->
-
+<img width="500" height="183" alt="WH5U.git" src="WH5U.gif">
 <div align="center">
 
 <!-- Professional dark gray waving banner -->
@@ -67,10 +67,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 🧰 Tech Stack
-<img align="right" alt="Analysis" width="390" height="280"
-  src="https://cdn.dribbble.com/userupload/20903764/file/original-54080c1d010ef0bc22fb66b815e6e848.gif">
 
-<div align="center">
+<img width="620" height="350" alt="AyEj.git" src="AyEj.gif"> 
+
 
 **Data & Analytics**
 
@@ -100,11 +99,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 📊 Skills Proficiency
+<img width="450" height="370" alt="WH5U.gif" src="WH5U.gif"> 
 
 <!-- Text-based progress bars (Unicode blocks) — no external image
      service involved, so this section can never show as broken. -->
-     
-<img width="1584" height="396"Skill.png" src="Skill.png">     
 
 | Skill | Proficiency | Progress |
 |---|:---:|---|
@@ -132,6 +130,8 @@
 
 ## 🎓 Achievements & Learning Path
 
+<img width="500" height="200" alt="Glhy.gif" src="Glhy.gif">
+
 <div align="center">
 
 | Milestone | Status |
@@ -149,7 +149,6 @@
 
 > *"The only way to learn a new programming language is by writing programs in it."*
 > — Dennis Ritchie
-
 
 ## 📬 Contact Me
 
