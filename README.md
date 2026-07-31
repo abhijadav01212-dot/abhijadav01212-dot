@@ -50,8 +50,6 @@
 
 <img width="750" height="350" alt="AyEj.git" src="AyEj.gif"> 
 
-<img width="350" height="250" alt="Il42.git" src="Il42.gif">
-
 ## 👨‍💼 About Me
 
 <table>
@@ -101,7 +99,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 📊 Skills Proficiency
-<img width="450" height="370" alt="WH5U.gif" src="WH5U.gif"> 
 <img width="450" height="370" alt="7qz0.gif" src="7qz0.gif"> 
 
 <!-- Text-based progress bars (Unicode blocks) — no external image
