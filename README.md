@@ -1,4 +1,5 @@
-<img width="245" height="183" alt="9xEt.git" src="9xEt.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="Jfw2.gif" src="Jfw2.gif">
+  <img width="190" height="90" alt="1upj.git" src="1upj.gif"> 
+<img width="750" height="350" alt="81Jl.git" src="81Jl.gif">  
 </table>
 <!-- ============================================================ -->
 <!--  ABHISHEK JATAV — PROFESSIONAL GITHUB PROFILE README         -->
@@ -7,15 +8,14 @@
 <!--  Note: Skills progress bars are plain Unicode text (no       -->
 <!--  external image service) so they can never break/show blank.-->
 <!-- ============================================================ -->
-                <img width="150" height="170" alt="1upj.git" src="1upj.gif"> 
-<img width="750" height="350" alt="81Jl.git" src="81Jl.gif">
-
-<img width="450" height="250" alt="FKGB.git" src="FKGB.gif">
-
+          
 <div align="center">
 
 <!-- Professional dark gray waving banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A0A,100:000000&height=260&section=header&text=Abhishek%20Jatav&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Developer%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
+
+<img width="245" height="183" alt="9xEt.git" src="9xEt.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="Jfw2.gif" src="Jfw2.gif">
+
 <!-- Animated typing effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Analyst+Intern+%40+Unified+Mentor+Pvt.+Ltd.;Turning+Raw+Data+Into+Actionable+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;Currently+Learning+Machine+Learning+%26+AWS" alt="Typing SVG" />
@@ -148,6 +148,7 @@
 | AWS Cloud for Data Analytics | 🟡 In Progress |
 
 </div>
+<img width="450" height="250" alt="FKGB.git" src="FKGB.gif">
 
 ## 📬 Contact Me
 
