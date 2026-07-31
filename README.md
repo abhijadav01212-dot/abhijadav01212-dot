@@ -128,9 +128,10 @@
 | **Machine Learning Starter Lab** | Python, NumPy, ML | Preprocessing, model comparison, evaluation |
 
 
-## 🎓 Achievements & Learning Path
+## 🎓 Achievements & Learning Pate
 
-<img width="500" height="200" alt="Glhy.gif" src="Glhy.gif">
+<img width="400" height="183" alt="PaCo.git" src="PaCo.gif">
+
 
 <div align="center">
 
@@ -159,7 +160,9 @@
 [![Portfolio](https://img.shields.io/badge/View%20my%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekjatav-portfolio-v2026.vercel.app/)
 
 **Profile Views:**
-<img width="245" height="183" alt="PaCo.git" src="PaCo.gif">
+
+<img width="500" height="200" alt="Glhy.gif" src="Glhy.gif">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijadav01212-dot&color=0EA5E9&style=for-the-badge&label=Profile+Views)
 
 </div>
