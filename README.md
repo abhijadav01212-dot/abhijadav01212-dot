@@ -1,9 +1,4 @@
-<img width="250" height="190" alt="SmWK.git" src="SmWK.gif"><img width="250" height="190" alt="75ez.git" src="75ez.gif"><img width="250" height="183" alt="AyEj.gif" src="AyEj.gif">
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</td>
-</tr>
+<img width="245" height="183" alt="9xEt.git" src="9xEt.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="Jfw2.gif" src="Jfw2.gif">
 </table>
 <!-- ============================================================ -->
 <!--  ABHISHEK JATAV — PROFESSIONAL GITHUB PROFILE README         -->
@@ -12,7 +7,11 @@
 <!--  Note: Skills progress bars are plain Unicode text (no       -->
 <!--  external image service) so they can never break/show blank.-->
 <!-- ============================================================ -->
-<img width="500" height="300" alt="FKGB.git" src="FKGB.gif">
+                <img width="150" height="170" alt="1upj.git" src="1upj.gif"> 
+<img width="750" height="350" alt="81Jl.git" src="81Jl.gif">
+
+<img width="450" height="250" alt="FKGB.git" src="FKGB.gif">
+
 <div align="center">
 
 <!-- Professional dark gray waving banner -->
@@ -49,7 +48,9 @@
 <!-- Section divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
-<img width="450" height="300" alt="Il42.git" src="Il42.gif">
+<img width="750" height="350" alt="AyEj.git" src="AyEj.gif"> 
+
+<img width="350" height="250" alt="Il42.git" src="Il42.gif">
 
 ## 👨‍💼 About Me
 
@@ -70,8 +71,7 @@
 
 ## 🧰 Tech Stack
 
-<img width="620" height="350" alt="AyEj.git" src="AyEj.gif"> 
-
+<img width="550" height="250" alt="85PC.git" src="85PC.gif">
 
 **Data & Analytics**
 
@@ -102,6 +102,7 @@
 
 ## 📊 Skills Proficiency
 <img width="450" height="370" alt="WH5U.gif" src="WH5U.gif"> 
+<img width="450" height="370" alt="7qz0.gif" src="7qz0.gif"> 
 
 <!-- Text-based progress bars (Unicode blocks) — no external image
      service involved, so this section can never show as broken. -->
@@ -132,7 +133,7 @@
 
 ## 🎓 Achievements & Learning Pate
 
-<img width="400" height="183" alt="PaCo.git" src="PaCo.gif">
+<img width="450" height="283" alt="8Rq0.git" src="8Rq0.gif">
 
 
 <div align="center">
@@ -147,11 +148,6 @@
 | AWS Cloud for Data Analytics | 🟡 In Progress |
 
 </div>
-
-## 💭 Quote
-
-> *"The only way to learn a new programming language is by writing programs in it."*
-> — Dennis Ritchie
 
 ## 📬 Contact Me
 
