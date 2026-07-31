@@ -99,7 +99,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 📊 Skills Proficiency
-<img width="480" height="370" alt="7qz0.gif" src="7qz0.gif"> 
+<img width="466" height="370" alt="7qz0.gif" src="7qz0.gif"> 
 
 <!-- Text-based progress bars (Unicode blocks) — no external image
      service involved, so this section can never show as broken. -->
@@ -130,7 +130,7 @@
 
 ## 🎓 Achievements & Learning Pate
 
-<img width="580" height="300" alt="8Rq0.git" src="8Rq0.gif">
+<img width="480" height="300" alt="8Rq0.git" src="8Rq0.gif">
 
 
 <div align="center">
@@ -145,7 +145,7 @@
 | AWS Cloud for Data Analytics | 🟡 In Progress |
 
 </div>
-<img width="450" height="250" alt="FKGB.git" src="FKGB.gif">
+<img width="480" height="300" alt="FKGB.git" src="FKGB.gif">
 
 ## 📬 Contact Me
 
@@ -157,7 +157,7 @@
 
 **Profile Views:**
 
-<img width="500" height="200" alt="Glhy.gif" src="Glhy.gif">
+<img width="480" height="300" alt="Glhy.gif" src="Glhy.gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijadav01212-dot&color=0EA5E9&style=for-the-badge&label=Profile+Views)
 
