@@ -1,4 +1,4 @@
-<img width="245" height="190" alt="SmWK.git" src="SmWK.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="AyEj.gif" src="AyEj.gif">
+<img width="250" height="190" alt="SmWK.git" src="SmWK.gif"><img width="250" height="190" alt="75ez.git" src="75ez.gif"><img width="250" height="183" alt="AyEj.gif" src="AyEj.gif">
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -49,8 +49,10 @@
 <!-- Section divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
+<img width="450" height="300" alt="Il42.git" src="Il42.gif">
+
 ## 👨‍💼 About Me
-<img width="500" height="200" alt="Il42.git" src="Il42.gif">
+
 <table>
 <tr>
 <td>
