@@ -1,4 +1,4 @@
-<img width="245" height="190" alt="AyEj.git" src="AyEj.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="9xEt.git" src="9xEt.gif">
+<img width="245" height="190" alt="SmWK.git" src="SmWK.gif"><img width="245" height="190" alt="75ez.git" src="75ez.gif"><img width="245" height="183" alt="AyEj.gif" src="AyEj.gif">
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -12,7 +12,7 @@
 <!--  Note: Skills progress bars are plain Unicode text (no       -->
 <!--  external image service) so they can never break/show blank.-->
 <!-- ============================================================ -->
-<img width="500" height="183" alt="WH5U.git" src="WH5U.gif">
+<img width="500" height="300" alt="FKGB.git" src="FKGB.gif">
 <div align="center">
 
 <!-- Professional dark gray waving banner -->
@@ -50,7 +50,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=3&width=100%25" width="100%"/>
 
 ## 👨‍💼 About Me
-
+<img width="500" height="200" alt="Il42.git" src="Il42.gif">
 <table>
 <tr>
 <td>
@@ -159,6 +159,7 @@
 [![Portfolio](https://img.shields.io/badge/View%20my%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekjatav-portfolio-v2026.vercel.app/)
 
 **Profile Views:**
+<img width="245" height="183" alt="PaCo.git" src="PaCo.gif">
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijadav01212-dot&color=0EA5E9&style=for-the-badge&label=Profile+Views)
 
 </div>
